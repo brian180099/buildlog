@@ -10,6 +10,15 @@ node_modules/
 # Generated output and Python cache
 dist/
 __pycache__/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local and test databases
+*.db
+*.sqlite
+*.sqlite3
 
 # Logs
 *.log

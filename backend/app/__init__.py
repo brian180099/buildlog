@@ -1,0 +1,2 @@
+"""BuildLog backend application."""
+
