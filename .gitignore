@@ -1,0 +1,15 @@
+# Environment files (keep the shareable template)
+.env
+.env.*
+!.env.example
+
+# Installed dependencies and virtual environments
+.venv/
+node_modules/
+
+# Generated output and Python cache
+dist/
+__pycache__/
+
+# Logs
+*.log
